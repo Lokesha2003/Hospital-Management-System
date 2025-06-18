@@ -25,7 +25,8 @@ A full-stack Java-based web application developed as a university group project.
 - *HTML / CSS / JavaScript*  
 - *Eclipse IDE*
 
----## 🧠 Object-Oriented Programming (OOP) Concepts Used
+---
+## 🧠 Object-Oriented Programming (OOP) Concepts Used
 
 | OOP Concept     | Where It's Used                           | Purpose                                                  |
 |------------------|--------------------------------------------|----------------------------------------------------------|
